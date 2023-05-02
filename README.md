@@ -5,7 +5,9 @@
 - 📫 Ngoài ra, nếu mọi người có nhu cầu học chuyên sâu về DA hoặc những môn học khác như DE, DS... Đừng ngại, hãy liên hệ mình qua số 0916 644 23 68
 - How to reach me:
     Cập nhật thông tin và học Data analytics cùng MCI Việt Nam: https://www.mcivietnam.com 
+    
     Liên hệ công việc/hợp tác: sonnn@mcivietnam.com
+    
     Facebook: https://www.facebook.com/nguyen.son.71
 
 <!---
