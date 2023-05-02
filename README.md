@@ -4,9 +4,9 @@
 - 💞️ Tại đây, mọi người bên cạnh việc mọi người xem project trên Ytb, mình còn cung cấp source code để mọi người có thể thực hành và sử dụng.
 - 📫 Ngoài ra, nếu mọi người có nhu cầu học chuyên sâu về DA hoặc những môn học khác như DE, DS... Đừng ngại, hãy liên hệ mình qua số 0916 644 23 68
 - How to reach me:
-* Cập nhật thông tin và học Data analytics cùng MCI Việt Nam: https://www.mcivietnam.com 
-* Liên hệ công việc/hợp tác: sonnn@mcivietnam.com
-* Facebook: https://www.facebook.com/nguyen.son.71
+    Cập nhật thông tin và học Data analytics cùng MCI Việt Nam: https://www.mcivietnam.com 
+    Liên hệ công việc/hợp tác: sonnn@mcivietnam.com
+    Facebook: https://www.facebook.com/nguyen.son.71
 
 <!---
 Data Life là một kênh YouTube của chúng tôi, được lập ra với mục đích chia sẻ kiến thức miễn phí về Data Analytics đến mọi người. Kênh này bao gồm các video hướng dẫn, thảo luận và bài giảng về các khái niệm cơ bản và nâng cao trong lĩnh vực này.
