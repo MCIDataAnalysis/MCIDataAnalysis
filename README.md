@@ -4,6 +4,7 @@
 - 💞️ Tại đây, mọi người bên cạnh việc mọi người xem project trên Ytb, mình còn cung cấp source code để mọi người có thể thực hành và sử dụng.
 - 📫 Ngoài ra, nếu mọi người có nhu cầu học chuyên sâu về DA hoặc những môn học khác như DE, DS... Đừng ngại, hãy liên hệ mình qua số 0916 644 23 68
 - How to reach me:
+
     Cập nhật thông tin và học Data analytics cùng MCI Việt Nam: https://www.mcivietnam.com 
     
     Liên hệ công việc/hợp tác: sonnn@mcivietnam.com
